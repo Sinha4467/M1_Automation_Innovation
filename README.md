@@ -1,4 +1,4 @@
-# M1_Automation_Innovation
+# ROCK, PAPER, SCISSORS Game
 
 ## Introduction
 
