@@ -61,12 +61,15 @@ Then there is a calculation that takes place and decides between computer and us
 ## High Level Requirements
 |HLR|      Description  |
 |------|  --------------|
-|HLR_1|      Random choices by the device    |
-|HLR_2|    No limit of fun        |
+|HLR_1|     This project can be implemented by using c language in both windows and linux os.       |
+|HLR_2|     This project requires a random number generator function.       |
+
 
 ## Low Level Requirements
 |LLR|      Description |
 |------|  --------------|
-|LLR_1|    Get data from standard input             |
-|LLR_2|   Refreshes all the data             |
+|LLR_1|     The Random number has to generate the numbers with in the specified range of number.     |
+|LLR_2|     The comparasion of the character from the player input and the computer generated has to be taken care.           |
+  
+
 
