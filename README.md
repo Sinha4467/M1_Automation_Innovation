@@ -1,4 +1,18 @@
 # ROCK, PAPER, SCISSORS Game
+___
+## BADGES
+
+### CODE QUALITY :
+
+![Code Quality Score](https://api.codiga.io/project/29881/score/svg)
+
+### CODE GRADE :
+
+![Code Grade](https://api.codiga.io/project/29881/status/svg)
+
+
+
+
 
 ## Introduction
 
