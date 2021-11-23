@@ -10,11 +10,15 @@ ___
 
 ![Code Grade](https://api.codiga.io/project/29881/status/svg)
 
+### CODACY BADGE :
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0d5f5532a2c4356acfbf640da3ba83c)](https://www.codacy.com/gh/Sinha4467/M1_Automation_Innovation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sinha4467/M1_Automation_Innovation&amp;utm_campaign=Badge_Grade)
 
 
 
 
-## Introduction
+
+## INTRODUCTION
 
 The game of Rock-Paper-Scissors (RPS) involves two players simultaneously choosing either rock, paper, or scissors. Informally, the rules of the game are that “rock beats scissors, paper beats rock, and scissors beats paper”.
 
